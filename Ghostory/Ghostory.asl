@@ -75,6 +75,9 @@ init
         vars.Unity.Make<float>(myClass.Static, myClass["totalPlaytime"]).Name = "totalPlaytime";
         vars.Unity.Make<int>(myClass.Static, myClass["chaliceCount"]).Name = "chaliceCount";
         vars.Unity.Make<int>(myClass.Static, myClass["jumpCount"]).Name = "jumpCount";
+        vars.Unity.Make<int>(myClass.Static, myClass["keysCount"]).Name = "keysCount";
+        vars.Unity.Make<int>(myClass.Static, myClass["doorsCount"]).Name = "doorsCount";
+        vars.Unity.Make<int>(myClass.Static, myClass["cagesCount"]).Name = "cagesCount";
         return true;
     });
 
