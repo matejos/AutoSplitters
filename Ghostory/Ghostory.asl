@@ -35,6 +35,21 @@
 	/// </summary>
 	public static int jumpCount = 0;
 
+    /// <summary>
+	/// The total number of keys picked up in this game session.
+	/// </summary>
+	public static int keysCount = 0;
+
+	/// <summary>
+	/// The total number of doors opened in this game session.
+	/// </summary>
+	public static int doorsCount = 0;
+
+    /// <summary>
+	/// The total number of cages opened in this game session.
+	/// </summary>
+	public static int cagesCount = 0;
+
  *
  * If you have an idea for a new speedrun category that can't be autosplit with these values,
  * jump into Ghostory Steam discussion forum and let the game's developer (me!) know.
@@ -45,6 +60,9 @@ state("Ghostory") {}
 startup
 {
     vars.Unity = Assembly.Load(File.ReadAllBytes(@"Components\UnityASL.bin")).CreateInstance("UnityASL.Unity");
+    settings.Add("keySplit", false, "Split on collected key");
+    settings.Add("doorSplit", false, "Split on opened door");
+    settings.Add("cageSplit", false, "Split on opened cage");
 }
 
 init
@@ -92,6 +110,24 @@ split
     if (vars.Unity["gameState"].Changed && vars.Unity["gameState"].Current == "Victory") {
         return true;
     }  
+
+    if (settings["keySplit"]) {
+        if (vars.Unity["keysCount"].Changed) {
+            return true;
+        }
+    }
+
+    if (settings["doorSplit"]) {
+        if (vars.Unity["doorsCount"].Changed) {
+            return true;
+        }
+    }
+
+    if (settings["cageSplit"]) {
+        if (vars.Unity["cagesCount"].Changed) {
+            return true;
+        }
+    }
 }
 
 isLoading
