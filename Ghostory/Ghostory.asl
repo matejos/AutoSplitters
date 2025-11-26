@@ -6,7 +6,7 @@
 	/// The current state of the game in human readable format.
 	/// 
 	/// Possible values are: 
-	/// "Main Menu", "Entering Level", "Playing", "Exiting Level", "Cutscene", "Menu", "Victory", or null.
+	/// "Main Menu", "Entering Level", "Playing", "Restarting", "Exiting Level", "Cutscene", "Menu", "Victory", or null.
 	/// </summary>
 	public static string gameState = null;
 
@@ -60,6 +60,7 @@ state("Ghostory") {}
 startup
 {
     vars.Unity = Assembly.Load(File.ReadAllBytes(@"Components\UnityASL.bin")).CreateInstance("UnityASL.Unity");
+    settings.Add("resetOnLevelRestart", false, "Reset on level restart");
     settings.Add("keySplit", false, "Split on collected key");
     settings.Add("doorSplit", false, "Split on opened door");
     settings.Add("cageSplit", false, "Split on opened cage");
@@ -144,6 +145,13 @@ reset
     // Reset when returned to menu.
     if (vars.Unity["levelIndex"].Changed && vars.Unity["levelIndex"].Current == 0) {
         return true;
+    }
+
+    if (settings["resetOnLevelRestart"]) {
+        // Reset when restarting a level.
+        if (vars.Unity["gameState"].Changed && vars.Unity["gameState"].Current == "Restarting") {
+            return true;
+        }
     }
 }
 
