@@ -19,6 +19,15 @@
   <AttemptHistory />
   <Segments>
     <Segment>
+      <Name>House door</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
       <Name>Yellow key</Name>
       <Icon />
       <SplitTimes>
