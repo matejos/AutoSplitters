@@ -253,7 +253,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>-The Winter Is Coming</Name>
+      <Name>{Stage 2} The Winter Is Coming</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -262,7 +262,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>{Stage 2} Breaking the Ice</Name>
+      <Name>-Breaking the Ice</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
