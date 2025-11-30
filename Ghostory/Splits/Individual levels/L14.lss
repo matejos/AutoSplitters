@@ -28,7 +28,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Teal key</Name>
+      <Name>Cyan key</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -55,7 +55,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Teal cage</Name>
+      <Name>Cyan cage</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
