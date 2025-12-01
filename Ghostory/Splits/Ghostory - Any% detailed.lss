@@ -1585,15 +1585,6 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>-Gray key</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
       <Name>-Orange key</Name>
       <Icon />
       <SplitTimes>
@@ -1604,24 +1595,6 @@
     </Segment>
     <Segment>
       <Name>-Yellow key</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>-Green cage</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>-Orange cage</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1648,6 +1621,33 @@
       <SegmentHistory />
     </Segment>
     <Segment>
+      <Name>-Gray key</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Green cage</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Orange cage</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
       <Name>-Gray door</Name>
       <Icon />
       <SplitTimes>
@@ -1666,7 +1666,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>-Blue key</Name>
+      <Name>-Dark blue key</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1675,7 +1675,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>-Blue cage</Name>
+      <Name>-Dark blue cage</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
