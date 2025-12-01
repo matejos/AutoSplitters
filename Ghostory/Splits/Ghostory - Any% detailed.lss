@@ -631,7 +631,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>{Old Faces} End</Name>
+      <Name>Old Faces</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1243,7 +1243,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>{Companion From the Past} End</Name>
+      <Name>Companion From the Past</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1468,7 +1468,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>{Answers} End</Name>
+      <Name>Answers</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1477,7 +1477,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>{The Nest} End</Name>
+      <Name>The Nest</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -1756,7 +1756,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>{Questions} End</Name>
+      <Name>Questions</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -2143,7 +2143,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>{The Winter Is Coming} End</Name>
+      <Name>The Winter Is Coming</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -2350,7 +2350,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>{Choices} End</Name>
+      <Name>Choices</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -3151,7 +3151,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>{The Trade} End</Name>
+      <Name>The Trade</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -3520,7 +3520,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>{Epilogue} End</Name>
+      <Name>Epilogue</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
