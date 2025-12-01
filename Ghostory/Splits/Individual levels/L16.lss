@@ -19,7 +19,7 @@
   <AttemptHistory />
   <Segments>
     <Segment>
-      <Name>Blue key</Name>
+      <Name>Dark blue key</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -28,7 +28,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Blue cage</Name>
+      <Name>Dark blue cage</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />

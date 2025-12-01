@@ -55,7 +55,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Light green key</Name>
+      <Name>Green key</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -64,7 +64,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Light green door</Name>
+      <Name>Green door</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
