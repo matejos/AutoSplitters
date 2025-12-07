@@ -667,7 +667,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>-Light blue cage</Name>
+      <Name>-Yellow key</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -677,6 +677,15 @@
     </Segment>
     <Segment>
       <Name>-White key</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Light blue cage</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -695,6 +704,24 @@
     </Segment>
     <Segment>
       <Name>-Red cage</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Yellow door</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Pink key</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -722,33 +749,6 @@
     </Segment>
     <Segment>
       <Name>-Dark blue cage</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>-Yellow key</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>-Yellow door</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>-Pink key</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
