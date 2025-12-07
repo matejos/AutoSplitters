@@ -76,7 +76,7 @@
         <ShowThinSeparators>True</ShowThinSeparators>
         <AlwaysShowLastSplit>True</AlwaysShowLastSplit>
         <SplitWidth>20</SplitWidth>
-        <SplitTimesAccuracy>Seconds</SplitTimesAccuracy>
+        <SplitTimesAccuracy>Hundredths</SplitTimesAccuracy>
         <BeforeNamesColor>FFFFFFFF</BeforeNamesColor>
         <CurrentNamesColor>FFFFFFFF</CurrentNamesColor>
         <AfterNamesColor>FFFFFFFF</AfterNamesColor>
@@ -94,7 +94,7 @@
         <BackgroundColor2>FF16003C</BackgroundColor2>
         <BackgroundGradient>Vertical</BackgroundGradient>
         <SeparatorLastSplit>True</SeparatorLastSplit>
-        <DeltasAccuracy>Tenths</DeltasAccuracy>
+        <DeltasAccuracy>Hundredths</DeltasAccuracy>
         <DropDecimals>True</DropDecimals>
         <OverrideDeltasColor>False</OverrideDeltasColor>
         <DeltasColor>FFFFFFFF</DeltasColor>
@@ -116,10 +116,10 @@
         <OverrideHeaderColor>False</OverrideHeaderColor>
         <HeaderText>True</HeaderText>
         <HeaderTimes>True</HeaderTimes>
-        <HeaderAccuracy>Tenths</HeaderAccuracy>
+        <HeaderAccuracy>Hundredths</HeaderAccuracy>
         <SectionTimer>True</SectionTimer>
         <SectionTimerGradient>True</SectionTimerGradient>
-        <SectionTimerAccuracy>Tenths</SectionTimerAccuracy>
+        <SectionTimerAccuracy>Hundredths</SectionTimerAccuracy>
         <SubsplitTopColor>8D000000</SubsplitTopColor>
         <SubsplitBottomColor>00FFFFFF</SubsplitBottomColor>
         <HeaderTopColor>14FFFFFF</HeaderTopColor>
@@ -153,7 +153,7 @@
         <Version>1.5</Version>
         <TimerHeight>69</TimerHeight>
         <TimerWidth>225</TimerWidth>
-        <TimerFormat>1.23</TimerFormat>
+        <TimerFormat>1.234</TimerFormat>
         <OverrideSplitColors>False</OverrideSplitColors>
         <ShowGradient>True</ShowGradient>
         <TimerColor>FFAAAAAA</TimerColor>
@@ -174,7 +174,7 @@
         <BackgroundColor>FF020034</BackgroundColor>
         <BackgroundColor2>FF020224</BackgroundColor2>
         <BackgroundGradient>Vertical</BackgroundGradient>
-        <DeltaAccuracy>Tenths</DeltaAccuracy>
+        <DeltaAccuracy>Hundredths</DeltaAccuracy>
         <DropDecimals>True</DropDecimals>
         <Comparison>Current Comparison</Comparison>
         <Display2Rows>False</Display2Rows>
