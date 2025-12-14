@@ -2719,15 +2719,6 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>-Yellow key</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
       <Name>-Red key</Name>
       <Icon />
       <SplitTimes>
@@ -2747,6 +2738,15 @@
     </Segment>
     <Segment>
       <Name>-Light blue key</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Yellow key</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
